@@ -1,12 +1,17 @@
 _repo: The-Mahabharata-of-Krishna-Dwaipayana-Vyasa-Translated-into-English-Prose---13-Virata-Parva_12058
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Ganguli, Kisari Mohan
     gutenberg_agent_id: '2563'
     url: http://www.gutenberg.org/2009/agents/2563
     wikipedia: http://en.wikipedia.org/wiki/Kisari_Mohan_Ganguli
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12058#The-Mahabharata-of-Krishna-Dwaipayana-Vyasa-Translated-into-English-Prose---13-Virata-Parva
 gutenberg_bookshelf:
 - Best Books Ever Listings
 - Hinduism
